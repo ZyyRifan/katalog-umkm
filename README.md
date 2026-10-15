@@ -74,7 +74,7 @@ Urutan yang disarankan: US-01, US-02, US-03, US-04, US-05, US-06, lalu fitur bon
 
 ## Tentang aplikasi ini
 
-- **Nama usaha:**
+- **Nama usaha:** Toko Jawir (Fashion & Streetwear)
 - **Pembuat:**
 - **Link aplikasi:**
-- **Fitur bonus yang dikerjakan:**
+- **Fitur bonus yang dikerjakan:** US-07 (List Produk Database), US-08 (Tambah Produk), US-09 (Ubah Produk), US-10 (Hapus Produk)
